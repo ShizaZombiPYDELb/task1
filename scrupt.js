@@ -1,1 +1,1 @@
-Comment.console.log("SHAYRMA");
+console.log("SHAYRMA");
